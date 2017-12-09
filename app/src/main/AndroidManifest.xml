@@ -23,8 +23,6 @@
         </activity>
         <activity android:name=".AddEntries" />
         <activity android:name=".UpdateEntries" />
-        <activity android:name=".login" />
-        <activity android:name=".Firebase.LoginActivity2"></activity>
     </application>
 
 </manifest>
