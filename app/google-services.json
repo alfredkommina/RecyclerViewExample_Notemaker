@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "822893919940",
+    "firebase_url": "https://note-maker.firebaseio.com",
+    "project_id": "note-maker",
+    "storage_bucket": "note-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822893919940:android:72603817b45fbfdb",
+        "android_client_info": {
+          "package_name": "com.alfredkommina.recyclerviewexample_raywend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822893919940-73jert7rtrm8vfiu0f0jjmvshfj2u18o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Oyq71eH9XHwaJ4JDLnUEbwl5YPAf2_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

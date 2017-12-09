@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/saverupdate"
+        android:orderInCategory="100"
+        android:title="Save"
+        android:icon="@drawable/ic_done_black_24dp"
+        app:showAsAction="always"
+        android:iconTint="#fff"
+        />
+    <item android:id="@+id/deleteme"
+        android:title="Deleteupdate"
+        app:showAsAction="always"
+
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:iconTint="#fff"/>
+
+</menu>
